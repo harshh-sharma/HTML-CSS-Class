@@ -42,5 +42,7 @@
 
 
 ### Github Comands
-- git init
-- git status
+- git init // intinalized git repo
+- git status // to check repo status
+- git add . // to add all in repo
+- git commit -m "intro of html and including some basic tag of html like h`1,dic etc"
