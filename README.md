@@ -41,6 +41,11 @@
  - img tag is a self closing tag
 
 
+### hr tag and <br/> 
+   - <hr/> tag is used to horizontal line 
+   - <br/> is used to line break
+
+
 ### Github Comands
 - git init // intinalized git repo
 - git status // to check repo status
